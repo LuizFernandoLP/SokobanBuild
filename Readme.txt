@@ -17,5 +17,4 @@ Running the Game:
             -if you want to run the game using the first repo -> open MainScene in unity(located in assets folder)
             
 
-            -second way of running the game (RECOMMENDED): download SokobanGameBuild.rar from the second repo, extract the files and
-             run the executable inside the folder called Sokoban (do not take the executable out of the folder, otherwise it will be missing dependencies).
+            -second way of running the game (RECOMMENDED): download SokobanGameBuild.rar from the second repo, extract the files and run the executable inside the folder called Sokoban (do not take the executable out of the folder, otherwise it will be missing dependencies).

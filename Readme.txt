@@ -12,9 +12,7 @@ Resources: All prefabs and assets were designed by me using paint.net, therefore
 the following video was used as a learning source/reference --> https://www.youtube.com/watch?v=ESh8phnmiXg&ab_channel=platoevolved
 
 
-
 Running the Game:
-            -if you want to run the game using the first repo -> open MainScene in unity(located in assets folder)
-            
+            -if you want to run the game using the "Sokoban" repo -> open it with Unity and then load MainScene (located in assets folder)
 
-            -second way of running the game (RECOMMENDED): download SokobanGameBuild.rar from the second repo, extract the files and run the executable inside the folder called Sokoban (do not take the executable out of the folder, otherwise it will be missing dependencies).
+            -second way of running the game (RECOMMENDED): download SokobanGameBuild.rar from this repo, extract the files and run the executable inside the folder called Sokoban (do not take the executable out of the folder, otherwise it will be missing dependencies).
